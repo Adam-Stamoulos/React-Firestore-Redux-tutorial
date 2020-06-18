@@ -8,4 +8,4 @@ const SettingsNav = () => {
     )
 }
 
-export default SettingsNav
+export default SettingsNav;
